@@ -4,7 +4,7 @@
 
 <div>
 
-**rLLM has been migrated to a new org, [rllm-org/rllm](https://github.com/rllm-org/rllm)**
+### rLLM has been migrated to a new org, [rllm-org/rllm](https://github.com/rllm-org/rllm). This repo is now an archive version of rLLM. 
   
 🚀 Reinforcement Learning for Language Agents🌟
 </div>
